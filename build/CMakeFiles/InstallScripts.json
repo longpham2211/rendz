@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/rendz/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
